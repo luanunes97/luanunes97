@@ -1,8 +1,5 @@
 ## Oi! Eu sou o Luan Pessoa
-
-- 🔭 Desenvolvedor Full-Stack
-- 🌱 Como ser bem sucedido
-- ⚡ Fun fact: Otaku 😎
+Front-End Developer
 
 <div align="center">
   <a href="https://github.com/luanunes97">
